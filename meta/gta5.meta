@@ -466,7 +466,7 @@
 	  <fileType>VFX_SETTINGS_FILE</fileType>
 	</Item>
 	<Item>	
-	  <filename>resources:/kev_gore/data/effects/bloodfx.dat</filename>
+	  <filename>resources:/kevs-gore/data/effects/bloodfx.dat</filename>
 	  <fileType>BLOODFX_FILE</fileType>
 	</Item>
 	<Item>
@@ -482,7 +482,7 @@
 	  <fileType>FIREFX_FILE</fileType>
 	</Item>
 	<Item>
-	 <filename>resources:/kev_gore/data/effects/liquidfx.dat</filename>
+	 <filename>resources:/kevs-gore/data/effects/liquidfx.dat</filename>
 	  <fileType>LIQUIDFX_FILE</fileType>
 	</Item>
 	<Item>
@@ -498,7 +498,7 @@
 	  <fileType>WEAPONFX_FILE</fileType>
 	</Item>
 	<Item>
-	  <filename>resources:/kev_gore/data/effects/decals.dat</filename>
+	  <filename>resources:/kevs-gore/data/effects/decals.dat</filename>
 	  <fileType>DECALS_FILE</fileType>
 	</Item>
 	<Item>
